@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página 02</title>
+    <link rel="stylesheet" href="style.css">
+        
+</head>
+<body>
+    <h1>Esta é a segunda página do site!</h1>
+<h2>Estou testando os estilos de css </h2>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur soluta ut repudiandae sit vero aliquam totam. Culpa sequi, expedita deleniti natus atque sapiente sit dolor, ullam reiciendis nesciunt odio aspernatur!Lorem
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, nobis. Laudantium optio officia similique, ipsa dolorem rerum voluptates autem nulla eos enim provident at qui, neque earum ex maxime Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi provident ut qui nesciunt adipisci, voluptatum beatae impedit earum possimus in saepe, eos sequi? Provident impedit explicabo illo facilis iure nulla?
+</p>
+<p><a href="index.html"> <img src="setas-para-a-esquerda.png" alt=""></a></p>
+
+</body>
+</html>
